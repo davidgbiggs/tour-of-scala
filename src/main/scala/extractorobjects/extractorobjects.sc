@@ -17,3 +17,4 @@ println(name)
 
 val CustomerID(name2) = "--asdfasdfasdf"
 
+val CustomerID(name3) = "-asdfasdfasdf"
